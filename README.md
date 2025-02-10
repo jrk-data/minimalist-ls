@@ -35,15 +35,15 @@ Para este proyecto se optó por un desarrollo minimalista, priorizando la simpli
 
 ## Formularios y Datos
 
-- **Formulario de carga de datos** (link)
+- **Formulario de carga de datos** - [link](https://docs.google.com/forms/d/1_7wXQ5MlQHC4ti_DRmFW83MdK-eOXs6sCYP4DrxmP8U/edit)
   - Datos cargados:
     - Calidad del sueño
     - Dolor muscular
     - Estado de ánimo
     - Estrés
     - Fatiga
-- **Google Sheets** (link) para almacenamiento de datos.
-- **Visualización en Looker Studio** (link):
+- **Google Sheets** - [link](https://docs.google.com/spreadsheets/u/0/d/16oH9xc27kGEx46iRUnacK7cuENXEp_dDtp1UaC8Fghg/edit) para almacenamiento de datos.
+- **Visualización en Looker Studio** - [link](https://lookerstudio.google.com/reporting/2f67848e-419a-4468-8397-0565a9e1dfbe/page/p_97gmttu9nd):
   - Hoja principal con tabla de todas las jugadoras.
   - Estadísticas generales del equipo.
   - Filtros por jugadora para ver sus estadísticas personales:
